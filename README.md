@@ -1,7 +1,7 @@
 RwandaLinkLibrary Project Instructions
 Database Name: rwanda_link_library
 
-1. Admin Login and Dashboard
+Admin Login and Dashboard
 Login as Admin:
 Email: g.umutoni@alustudent.com
 Password: 12345
@@ -18,7 +18,7 @@ Library Manager
 Student
 Logout: After completing the tasks, the admin can log out.
 
-3. Librarian Login and Dashboard
+Librarian Login and Dashboard
 
 
 Login as Librarian:
@@ -32,7 +32,7 @@ Books can be viewed and organized according to the department and option.
 Manage Book Requests: View and handle book requests from students.
 Logout: After completing the tasks, the librarian can log out.
 
-5. Student Login and Dashboard
+Student Login and Dashboard
 
 Student Registration:
 If a student does not have an account, they can create one by clicking on "Register."
